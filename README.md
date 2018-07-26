@@ -8,3 +8,4 @@ Applicability of data distribution technologies within ITS
 |Tom Lusco           |USDOT    |[Core System Requirements Specification (SyRS)](../../raw/master/CoreDocs/CoreSystem_SE_SyRS_RevA_2011-06-13.pdf)|
 |Tom Lusco           |USDOT    |[Core System Architecture Document (SAD)](../../raw/master/CoreDocs/CoreSystemArchitectureDoc_revC.pdf)|
 |Tom Lusco           |USDOT    |[Core System Concept of Operations (ConOps)](../../raw/master/CoreDocs/CoreSystemConOpsRevE2.pdf)|
+|Ken Vaughn          |Self     |[Strawman for technology analysis - SNMP](../../raw/master/SNMP_Analysis.docx)|
